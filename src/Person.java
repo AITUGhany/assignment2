@@ -52,4 +52,4 @@ public class Person implements Payable, Comparable<Person> {
     public int compareTo(Person other) {
         return Double.compare(other.getPaymentAmount(), this.getPaymentAmount());
     }
-}11
+}

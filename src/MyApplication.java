@@ -19,4 +19,3 @@ public class MyApplication {
         }
     }
 }
-1

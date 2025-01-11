@@ -38,4 +38,3 @@ public class Employee extends Person {
         return "Employee: " + super.toString();
     }
 }
-1

@@ -28,4 +28,3 @@ public class Student extends Person {
         return "Student: " + super.toString();
     }
 }
-1
